@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "IAdvizeConversationSDK",
             url: "https://github.com/iadvize/iadvize-ios-sdk/releases/download/2.16.4/IAdvizeSDK.zip",
-            checksum: "855f14def0ed801fe635a52fe31769451f62fd55ff23ca599220f6f6cbc6cdaa"
+            checksum: "8e1fdae22112ed1e695db791ef9e4df27d01b608ee059e0f00c7c25402e0483b"
         ),
         .binaryTarget(
             name: "TwilioVideo",
