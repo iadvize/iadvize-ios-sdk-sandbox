@@ -307,7 +307,6 @@
       "text" : "chatboxDidClose"
     }
   ],
-  "required" : true,
   "role" : "symbol",
   "title" : "chatboxDidClose()",
   "type" : "topic",
@@ -346,6 +345,7 @@
       "text" : "chatboxDidOpen"
     }
   ],
+  "required" : true,
   "role" : "symbol",
   "title" : "chatboxDidOpen()",
   "type" : "topic",
